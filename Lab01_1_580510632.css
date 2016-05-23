@@ -1,0 +1,86 @@
+.header {
+    color: red;
+    border: 10px solid #00bfff;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 10px 10px 4px grey 
+
+}
+
+h1  { 
+    font-family: 'Indie Flower', cursive;
+}
+
+.container {
+    background-color: #ffffff;
+    margin: auto; 
+    text-align: center;
+    
+}
+
+.days {
+    text-align: center;
+    width: 10%;
+    display: inline-block;
+    padding: 15px;
+    font-size: 16px;
+    border-bottom-style: solid;
+    
+}
+
+.numbers  {
+    text-align: center;
+    width: 10%;
+    display: inline-block;
+    padding: 15px;
+    color: #00bfff;
+}
+
+.thead  {
+    font-family: 'Roboto Slab', serif; font-weight: 700;
+
+}
+
+.tbody  {
+    font-family: 'Roboto Slab', serif; font-weight: 400;
+}
+
+.days_1 {
+    text-align: center;
+    width: 10%;
+    display: inline-block;
+    padding: 15px;
+    font-size: 16px;
+    
+    background-color: lightblue; 
+    color: red;
+    border-bottom-style: solid;
+}
+
+.days_7 {
+    text-align: center;
+    width: 10%;
+    display: inline-block;
+    padding: 15px;
+    font-size: 16px;
+    background-color: lightblue; 
+    color: purple;
+    border-bottom-style: solid;
+}
+
+.numbers_sun {
+    text-align: center;
+    width: 10%;
+    display: inline-block;
+    padding: 15px;
+    color: red;
+}
+
+
+.birthday  {
+    text-align: center;
+    width: 10%;
+    display: inline-block;
+    padding: 15px;
+    color: green;
+}
